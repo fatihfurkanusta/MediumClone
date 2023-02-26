@@ -1,7 +1,7 @@
 # MediumClone
 It's a clone project of Medium.com
 
-# Using Technologies
+# Used Technologies
 
 - HTML
 - CSS

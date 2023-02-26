@@ -13,3 +13,6 @@ body{
 .border-top-gray{
     border-top: 1px solid rgba(230,230,230,1);
 }
+.num-color{
+    color: rgb(168, 167, 167)
+}

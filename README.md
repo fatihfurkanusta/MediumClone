@@ -1,5 +1,5 @@
 # MediumClone
-It's a clone project of Medium.com
+It's a clone project of [Medium.com](https://www.medium.com/).
 
 # Used Technologies
 
